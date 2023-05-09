@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+/*import React, {useState} from "react";
 import { StyleSheet, Image, Text, TouchableOpacity, View, } from "react-native";
 
 
@@ -70,7 +70,7 @@ buttonText:{
 fontSize:17,
 color:'white',
 },
-});*/
+});
 
 
 
@@ -293,4 +293,4 @@ color:'white',
         color:'white',
         fontWeight:'bold',
       },
-});
+});*/
